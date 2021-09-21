@@ -1,0 +1,45 @@
+.top{
+    display:flex;
+    background-color: #1F239F;
+}
+.header{
+    width: auto;
+    height: 100px;
+}
+#header1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+#subtext{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 18px;
+    color:#E5E7EB;
+}
+.link{
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color:#E5E7EB;
+}
+#headerlogo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+
+#buttonsignup {
+  background-color: #3882f6;
+  border: 1px solid rgba(27, 31, 35, .15);
+  border-radius: 6px;
+  color: #fff;
+  font-family: monospace;
+  font-size: 14px;
+  font-weight: 600;
+  padding: 6px 16px; 
+}
+
+
+
+
+
